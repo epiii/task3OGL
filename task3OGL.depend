@@ -233,7 +233,8 @@
 	<stdlib.h>
 	<iostream>
 
-1493095139 source:e:\nguli\8. sem2\subject\computer graphic (p)\openglexe\task3ogl\polygon.cpp
+1493095205 source:e:\nguli\8. sem2\subject\computer graphic (p)\openglexe\task3ogl\polygon.cpp
+	<windows.h>
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -250,7 +251,7 @@
 	<_mingw.h>
 	<stddef.h>
 
-1493097252 source:e:\nguli\8. sem2\subject\computer graphic (p)\openglexe\task3ogl\load3d.cpp
+1493098371 source:e:\nguli\8. sem2\subject\computer graphic (p)\openglexe\task3ogl\load3d.cpp
 	<GL/gl.h>
 	<GL/glut.h>
 	<stdio.h>
